@@ -33,4 +33,4 @@ in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Developer
 
-Giovanni Salmeri. [Get help](https://github.com/GiovanniSalmeri/yellow-yamlish/issues).
+Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/)
