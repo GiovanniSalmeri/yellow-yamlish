@@ -29,7 +29,7 @@ in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Installation
 
-[Download extension](https://github.com/GiovanniSalmeri/yellow-yamlish/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/GiovanniSalmeri/yellow-yamlish/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 ## Developer
 
