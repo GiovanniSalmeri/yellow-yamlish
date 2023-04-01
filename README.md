@@ -2,6 +2,10 @@ Yamlish 0.8.20
 =================
 Yaml-style page settings.
 
+## How to install an extension
+
+[Download ZIP file](https://github.com/GiovanniSalmeri/yellow-yamlish/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+
 ## How to use Yaml-style page settings
 
 This extensions allows to use page settings in Yaml style. Leading and trailing quotes are interpreted as delimiters and C-style escapes are translated. Settings not delimited by quotes are left untouched.
@@ -27,10 +31,6 @@ esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat n
 in culpa qui officia deserunt mollit anim id est laborum.
 ```
 
-## Installation
-
-[Download extension](https://github.com/GiovanniSalmeri/yellow-yamlish/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
-
 ## Developer
 
-Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/)
+Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/).
