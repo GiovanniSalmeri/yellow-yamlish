@@ -1,20 +1,20 @@
 Yamlish 0.8.20
 =================
-Yaml-style page settings.
+YAML-style page settings.
 
 ## How to install an extension
 
 [Download ZIP file](https://github.com/GiovanniSalmeri/yellow-yamlish/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-## How to use Yaml-style page settings
+## How to use YAML-style page settings
 
-This extensions allows to use page settings in Yaml style. Leading and trailing quotes are interpreted as delimiters, C-style escapes are translated. Settings not delimited by quotes are left untouched.
+This extensions allows to use page settings in YAML style. Leading and trailing quotes are interpreted as delimiters, C-style escapes are translated. Settings not delimited by quotes are left untouched.
 
 This is useful for example if your workflow includes [Pandoc](https://pandoc.org/).
 
 ## Examples
 
-A page with Yaml-style settings:
+A page with YAML-style settings:
 
 ```
 ---
