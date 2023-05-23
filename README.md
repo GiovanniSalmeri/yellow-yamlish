@@ -10,7 +10,7 @@ Yaml-style page settings.
 
 This extensions allows to use page settings in Yaml style. Leading and trailing quotes are interpreted as delimiters, C-style escapes are translated. Settings not delimited by quotes are left untouched.
 
-This is useful for example if your wokflow includes [Pandoc](https://pandoc.org/).
+This is useful for example if your workflow includes [Pandoc](https://pandoc.org/).
 
 ## Examples
 
