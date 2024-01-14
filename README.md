@@ -1,4 +1,4 @@
-Yamlish 0.8.20
+Yamlish 0.8.21
 =================
 YAML-style page settings.
 
