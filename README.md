@@ -1,5 +1,5 @@
-Yamlish 0.8.21
-=================
+# Yamlish 0.9.1
+
 YAML-style page settings.
 
 ## How to install an extension

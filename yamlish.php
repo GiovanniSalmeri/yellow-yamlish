@@ -2,7 +2,7 @@
 // Yamlish extension, https://github.com/GiovanniSalmeri/yellow-yamlish
 
 class YellowYamlish {
-    const VERSION = "0.8.21";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
 
     // Handle initialisation
