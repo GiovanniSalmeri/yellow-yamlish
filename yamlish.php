@@ -12,9 +12,9 @@ class YellowYamlish {
 
     // Handle page meta data
     public function onParseMetaData($page) {
-        $isHome = $page->location!==$page->yellow->content->getHomeLocation($page->location);
+        $isNotHome = $page->location!==$page->yellow->content->getHomeLocation($page->location);
         foreach ($page->metaData as $key=>&$value) {
-            $isTitleHeader = $isHome && $key=="titleHeader";
+            $isTitleHeader = $isNotHome && $key=="titleHeader";
             if ($isTitleHeader) $value = substr($value, 0, -strlen(" - ".$page->metaData["sitename"]));
             if (preg_match('/^"(.*)"$/', $value, $matches)) {
                 $value = stripcslashes($matches[1]);
