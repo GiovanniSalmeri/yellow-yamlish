@@ -8,7 +8,7 @@ YAML-style page settings.
 
 ## How to use YAML-style page settings
 
-This extensions allows to use page settings in YAML style. Leading and trailing quotes are interpreted as delimiters, C-style escapes are translated. Settings not delimited by quotes are left untouched.
+This extension allows to use page settings in YAML style. Leading and trailing quotes are interpreted as delimiters, C-style escapes are translated. Settings not delimited by quotes are left untouched.
 
 This is useful for example if your workflow includes [Pandoc](https://pandoc.org/).
 
