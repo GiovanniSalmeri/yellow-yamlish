@@ -1,6 +1,6 @@
-# Yamlish 0.9.1
+# Yamlish 1.0.0
 
-YAML-style page settings.
+YAML-style page settings. Developed by Giovanni Salmeri.
 
 ## How to install an extension
 
@@ -33,6 +33,4 @@ esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat n
 in culpa qui officia deserunt mollit anim id est laborum.
 ```
 
-## Developer
-
-Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
